@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesbaulrafi" alt="mesbaulrafi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://l.facebook.com/l.php?u=https%3a%2f%2fx.com%2fmesbaulrafi%3ft%3dicdosrvc4arelj1gsj9scw%26s%3d09%26fbclid%3diwzxh0bgnhzw0cmtaaynjpzbexr2phmg1uaelynhf6tgzmtqeekk4qywylbxq3ybrg9wtb3pffhd7nnsfm2lmjd6o9fq-2r2l3cgc1aeel22s_aem_n0ydjhjdulhn0mlyefhkvw&h=at2feqck21lvobq528yjodvjmarbisssn_qryeinjypxej09v278jeoorb27kvxpiowsrhtp-rsmihfznchkff2jzct-zjqfbbn0tphs8pao8jvvrkoeoj-5ai3c_d-qgztfjq" target="blank"><img src="https://img.shields.io/twitter/follow/https://l.facebook.com/l.php?u=https%3a%2f%2fx.com%2fmesbaulrafi%3ft%3dicdosrvc4arelj1gsj9scw%26s%3d09%26fbclid%3diwzxh0bgnhzw0cmtaaynjpzbexr2phmg1uaelynhf6tgzmtqeekk4qywylbxq3ybrg9wtb3pffhd7nnsfm2lmjd6o9fq-2r2l3cgc1aeel22s_aem_n0ydjhjdulhn0mlyefhkvw&h=at2feqck21lvobq528yjodvjmarbisssn_qryeinjypxej09v278jeoorb27kvxpiowsrhtp-rsmihfznchkff2jzct-zjqfbbn0tphs8pao8jvvrkoeoj-5ai3c_d-qgztfjq?logo=twitter&style=for-the-badge" alt="https://l.facebook.com/l.php?u=https%3a%2f%2fx.com%2fmesbaulrafi%3ft%3dicdosrvc4arelj1gsj9scw%26s%3d09%26fbclid%3diwzxh0bgnhzw0cmtaaynjpzbexr2phmg1uaelynhf6tgzmtqeekk4qywylbxq3ybrg9wtb3pffhd7nnsfm2lmjd6o9fq-2r2l3cgc1aeel22s_aem_n0ydjhjdulhn0mlyefhkvw&h=at2feqck21lvobq528yjodvjmarbisssn_qryeinjypxej09v278jeoorb27kvxpiowsrhtp-rsmihfznchkff2jzct-zjqfbbn0tphs8pao8jvvrkoeoj-5ai3c_d-qgztfjq" /></a> </p>
-
 - 🔭 I’m currently working on **portoStar**
 
 - 🌱 I’m currently learning **React Js**
