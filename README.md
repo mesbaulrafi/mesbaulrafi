@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **portoStar**
-- 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to collaborate on **React Projects**
+- 🔭 I’m currently working on **EduAct**
+- 🌱 I’m currently learning **Next JS & Firebase**
+- 👯 I’m looking to collaborate on **NextJS Projects**
 - 🤝 I’m looking for help with **e-Commerce Solutions**
 - 📝 I regularly write articles on [**Dev.to**](https://dev.to/mesbaulrafi)
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS , Firebase, NextJS**
 - 📫 How to reach me: **mesbaulrafi@gmail.com**
 - ⚡ Fun fact: **I think I am Funny!**
 
