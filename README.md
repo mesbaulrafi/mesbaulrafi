@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **EduAct**
+- 🔭 I’m currently working on **EduAct & CIT-WEB**
 - 🌱 I’m currently learning **Next JS & Firebase**
 - 👯 I’m looking to collaborate on **NextJS Projects**
 - 🤝 I’m looking for help with **e-Commerce Solutions**
