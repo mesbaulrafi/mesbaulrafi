@@ -81,8 +81,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mesbaulrafi&layout=compact&theme=tokyonight" height="170" align="center" width="40%" />
 </div>
   <br>
+
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=mesbaulrafi&theme=dark&hide_border=false" alt="mesbaulrafi Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mesbaulrafi&theme=dark&hide_border=false" alt="GitHub Streak" /></a>
 </div>
 
 ---
