@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Creative Web & Software**
-- 🌱 I’m currently learning **JavaScript & Next JS **
+- 🌱 I’m currently learning **JavaScript **
 - 👯 I’m looking to collaborate on **ReactJS Projects**
 - 🤝 I’m looking for help with **e-Commerce Solutions**
 - 📝 I regularly write articles on [**Dev.to**](https://dev.to/mesbaulrafi)
