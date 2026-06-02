@@ -88,7 +88,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mesbaulrafi&theme=github_dark" alt="GitHub Stats"> -->
-  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mesbaulrafi&theme=nightfox" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mesbaulrafi&theme=nightfox" alt="GitHub Streak" /></a>
 </div>
 
 ---
