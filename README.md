@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Creative Web & Software  **
-- 🔭 I’m currently working on **Creative Web & Software , Star Interior **
+- 🔭 I’m currently working on **Creative Web & Software  **
 - 🌱 I’m currently learning **JavaScript & Next JS **
 - 👯 I’m looking to collaborate on **ReactJS & NextJs Projects**
 - 🤝 I’m looking for help with **e-Commerce Solutions**
