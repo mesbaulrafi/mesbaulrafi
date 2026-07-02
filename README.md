@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mesbaul Rafi</h1>
+<h1 align="center">Hi 👋, I'm Mesbaul Haque Rafi</h1>
 <!-- <h3 align="center">Full-Stack Developer from Bangladesh 🇧🇩</h3>
 <p align="center">Passionately building web applications and solving problems.</p> -->
 
@@ -88,7 +88,7 @@
   <br>
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mesbaulrafi&theme=github_dark" alt="GitHub Stats"> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mesbaulrafi&theme=github_dark" alt="GitHub Stats">
   <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mesbaulrafi&theme=nightfox" alt="GitHub Streak" /></a> -->
 </div>
 
