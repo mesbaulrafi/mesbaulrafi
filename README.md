@@ -20,8 +20,8 @@
 
 - 🔭 I’m currently working on **Creative Web & Software  **
 - 🔭 I’m currently working on **Creative Web & Software  **
-- 🌱 I’m currently learning **JavaScript & Next JS **
-- 👯 I’m looking to collaborate on **ReactJS & NextJs Projects**
+- 🌱 I’m currently learning **JavaScript , NextJS & NodeJs **
+- 👯 I’m looking to collaborate on **ReactJS, NextJs & NodeJs Projects**
 - 🤝 I’m looking for help with **e-Commerce Solutions**
 - 📝 I regularly write articles on [**Dev.to**](https://dev.to/mesbaulrafi)
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS , Firebase, NextJS, NodeJs**
