@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b0764,100:9333ea&height=200&section=header&text=Mesbaul%20Haque%20Rafi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Bangladesh&descAlignY=58&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b0764,100:9333ea&height=200&section=header&text=Mesbaul%20Haque%20Rafi&fontSize=42&fontColor=2ecc71&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Bangladesh&descAlignY=58&descSize=18" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=9333EA&center=true&vCenter=true&width=560&lines=Building+clean%2C+scalable+interfaces;React+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+working+products" alt="Typing SVG" />
 
