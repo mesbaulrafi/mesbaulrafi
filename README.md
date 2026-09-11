@@ -43,13 +43,13 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 ### Contribution Activity
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesbaulrafi&theme=react-dark&bg_color=0D1117&color=9333EA&line=9333EA&point=ffffff&hide_border=true&area=true" alt="Activity Graph" width="100%" /> 
 
-</div>
+</div> -->
 <br>
 
 <div align="center">
