@@ -25,7 +25,7 @@
 1. **Currently learning** — Node.js
 2. **Open to** — Next.js collaborations
 3. **Contact** — `mesbaulrafi@gmail.com`
-4. **Portfolio** — `https://portfolio-mesbaulrafi.vercel.app`
+<!-- 4. **Portfolio** — `https://portfolio-mesbaulrafi.vercel.app` -->
 
 </td>
 <td width="50%" valign="top">
