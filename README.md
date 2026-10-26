@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mesbaul Haque Rafi</h1>
-<h3 align="center">Full-Stack Developer from Bangladesh 🇧🇩</h3>
-<p align="center">Passionately building web applications and solving problems.</p>
+<!-- <h3 align="center">Full-Stack Developer from Bangladesh 🇧🇩</h3>
+<p align="center">Passionately building web applications and solving problems.</p> -->
 
 <div align="center">
 
